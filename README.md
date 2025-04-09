@@ -2,6 +2,12 @@
 
 이 프로젝트는 [Create React App](https://github.com/facebook/create-react-app)으로 부트스트랩되었습니다.<br>
 
+## 환경 변수 설정
+어플리케이션 실행 전 루트 디렉토리에 .env 파일을 생성하고 아래 내용을 추가하십시오:
+
+<pre>REACT_APP_BACKEND_URL=http://localhost:8080</pre>
+
+⚠️ 백엔드 URL을 변경하고 싶을 경우, .env 파일의 해당 부분을 수정해주십시오.
 
 ## 사용 가능한 스크립트
 
