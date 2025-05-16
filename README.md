@@ -1,6 +1,8 @@
-# Create React App으로 시작하기
+# PosterPlot 
 
-이 프로젝트는 [Create React App](https://github.com/facebook/create-react-app)으로 부트스트랩되었습니다.<br>
+AI 기반 줄거리 생성과 유저 작성 시나리오를 바탕으로 시나리오 열람 기능을 제공하는 웹 플랫폼<br>
+
+- 이 프로젝트는 [Create React App](https://github.com/facebook/create-react-app)으로 부트스트랩되었습니다.<br>
 
 ## 환경 변수 설정
 어플리케이션 실행 전 루트 디렉토리에 .env 파일을 생성하고 아래 내용을 추가하십시오:
